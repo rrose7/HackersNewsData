@@ -1,0 +1,2 @@
+# HackersNewsData
+In this project we analyzed the dataset submitted to Hackernews from 2006 to 2015. Hacker News is a site where users can submit articles from across the internet (usually about technology and startups), and others can "upvote" the articles, signifying that they like them. The more upvotes a submission gets, the more popular it was in the community. Popular articles get to the "front page" of Hacker News, where they're more likely to be seen by others.
